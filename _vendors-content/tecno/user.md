@@ -1,4 +1,4 @@
----
+adb shell /data/app/~~iwa8UQY3Q56r2oFXX_wb4A==/moe.shizuku.privileged.api-XdH-o4ITfjiGtpYqVrJigA==/lib/arm64/libshizuku.so---
 manufacturer:
     - tecno
 
